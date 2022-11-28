@@ -2,7 +2,7 @@ name: Github Actions Demo
 on: 
   push:
     branches: [ main ]
-  pull requests:
+  pull_requests:
     branches: [ main ]
  
  
